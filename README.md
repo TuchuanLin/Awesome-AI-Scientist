@@ -36,9 +36,8 @@ We categorize resources based on the core stages of research automation impacted
         - [Table Understanding](#table-understanding)
     - [Knowledge Utilization](#knowledge-utilization)
 - [💡 Idea Generation](#-idea-generation)
-    - [Generation Strategy](#generation-strategy)
-    - [Generation Method](#generation-method)
-    - [Internal Evaluation (Hypothesis Validation & Fact Checking)](#internal-evaluation-hypothesis-validation--fact-checking)
+    - [Generation](#generation)
+    - [Evaluation](#evaluation)
 - [🔬 Experiment Execution](#-experiment-execution)
     - [Experiment Design](#experiment-design)
     - [Experiment Conduction](#experiment-conduction)
@@ -172,15 +171,12 @@ Exciting frontiers pushing the boundaries of AI in research:
 
 
 <!-- omit in toc -->
-## Generation Strategy
+## Generation
 *   Literature based discovery: models, methods, and trends [[Paper]](https://doi.org/10.1016/j.jbi.2017.08.011) ![](https://img.shields.io/badge/J._Biomed._Inform.-2017-green)
 *   Predicting the Future of AI with AI: High-quality link prediction in an exponentially growing knowledge network [[Paper]](https://arxiv.org/abs/2210.00881) ![](https://img.shields.io/badge/arXiv-2022.10-red?logo=arxiv) [[Code](https://github.com/artificial-scientist-lab/FutureOfAIviaAI)]
 *   LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery [[Paper]](https://openreview.net/forum?id=hz8cFsdz7P) ![](https://img.shields.io/badge/ICML-2024-blue)
 *   Chain of ideas: Revolutionizing research via novel idea development with llm agents [[Paper]](https://arxiv.org/abs/2410.13185) ![](https://img.shields.io/badge/arXiv-2024.10-red?logo=arxiv) [[Code](https://github.com/DAMO-NLP-SG/CoI-Agent)]
 *   Nova: An iterative planning and search approach to enhance novelty and diversity of llm generated ideas [[Paper]](https://arxiv.org/abs/2410.14255) ![](https://img.shields.io/badge/arXiv-2024.10-red?logo=arxiv)
-
-<!-- omit in toc -->
-## Generation Method
 *   Ideas are dimes a dozen: Large language models for idea generation in innovation [[Paper]](https://christophegirard.com/wp-content/uploads/2023/09/Etude-creation-idees-comparative-ChatGPT-vs-etudiants.pdf) ![](https://img.shields.io/badge/Wharton_School_Paper-2023-brown)
 *   Monte Carlo Thought Search: Large Language Model Querying for Complex Scientific Reasoning in Catalyst Design [[Paper]](https://arxiv.org/abs/2310.14420) ![](https://img.shields.io/badge/arXiv-2023.10-red?logo=arxiv) [[Code](https://github.com/pnnl/chemreasoner)]
 *   Large Language Models are Zero Shot Hypothesis Proposers [[Paper]](https://arxiv.org/abs/2311.05965) ![](https://img.shields.io/badge/arXiv-2023.11-red?logo=arxiv)
@@ -216,7 +212,7 @@ Exciting frontiers pushing the boundaries of AI in research:
 *   Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation [[Paper]](https://arxiv.org/abs/2503.08549) ![](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv)
 
 <!-- omit in toc -->
-## Internal Evaluation (Hypothesis Validation & Fact Checking)
+## Evaluation
 *   Generating fact checking explanations [[Paper]](https://doi.org/10.18653/v1/2020.acl-main.656) ![](https://img.shields.io/badge/ACL-2020-blue)
 *   Generative language modeling for automated theorem proving [[Paper]](https://arxiv.org/abs/2009.03393) ![](https://img.shields.io/badge/arXiv-2020.09-red?logo=arxiv)
 *   Fact or fiction: Verifying scientific claims [[Paper]](https://doi.org/10.18653/v1/2020.emnlp-main.609) ![](https://img.shields.io/badge/EMNLP-2020-blue) [[Code](https://github.com/allenai/scifact)]
