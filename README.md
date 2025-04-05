@@ -502,14 +502,64 @@ Exciting frontiers pushing the boundaries of AI in research:
 *   Language agents achieve superhuman synthesis of scientific knowledge [[Paper]](https://arxiv.org/abs/2409.13740) ![](https://img.shields.io/badge/arXiv-2024.09-red?logo=arxiv)
 *   AgentReview: Exploring Peer Review Dynamics with LLM Agents [[Paper]](https://aclanthology.org/2024.emnlp-main.70) ![](https://img.shields.io/badge/EMNLP-2024-blue) [[Code](https://github.com/Ahren09/AgentReview)]
 *   Peer Reviews of Peer Reviews: A Randomized Controlled Trial and Other Experiments [[Paper]](https://arxiv.org/abs/2311.09497) ![](https://img.shields.io/badge/arXiv-2024.11-red?logo=arxiv)
-*   CycleResearcher: Improving Automated Research via Automated Review [[Paper]](https://doi.org/10.48550/arXiv.2411.00816) ![](https://img.shields.io/badge/arXiv-2024.11-red?logo=arxiv) [[Code](https://github.com/zhu-minjun/Researcher)]
+*   CycleResearcher: Improving Automated Research via Automated Review [[Paper]](https://doi.org/10.48550/arXiv.2411.00816)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         ](https://img.shields.io/badge/arXiv-2024.11-red?logo=arxiv) [[Code](https://github.com/zhu-minjun/Researcher)]
 *   On the Rigour of Scientific Writing: Criteria, Analysis, and Insights [[Paper]](https://aclanthology.org/2024.findings-emnlp.380/) ![](https://img.shields.io/badge/EMNLP_Findings-2024-blue)
-*   ResearchTown: Simulator of Human Research Community [[Paper]](https://doi.org/10.48550/arXiv.2412.17767) ![](https://img.shields.io/badge/arXiv-2024.12-red?logo=arxiv) [[Code](https://github.com/ulab-uiuc/research-town)]
-*   Prompting LLMs to Compose Meta-Review Drafts from Peer-Review Narratives of Scholarly Manuscripts [[Paper]](https://doi.org/10.48550/arXiv.2402.15589) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv) [[Code](https://github.com/BridgeAI-Lab/LLM-as-Meta-Reviewer)]
+*   ResearchTown: Simulator of Human Research Community [[Paper]](https://doi.org/10.48550/arXiv.2412.17767)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         ](https://img.shields.io/badge/arXiv-2024.12-red?logo=arxiv) [[Code](https://github.com/ulab-uiuc/research-town)]
+*   Prompting LLMs to Compose Meta-Review Drafts from Peer-Review Narratives of Scholarly Manuscripts [[Paper]](https://doi.org/10.48550/arXiv.2402.15589)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         ](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv) [[Code](https://github.com/BridgeAI-Lab/LLM-as-Meta-Reviewer)]
 *   Grounding Fallacies Misrepresenting Scientific Publications in Evidence [[Paper]](https://arxiv.org/abs/2408.12812) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv) [[Code](https://github.com/UKPLab/naacl2025-missciplus)]
 *   Claim Verification in the Age of Large Language Models: A Survey [[Paper]](https://arxiv.org/abs/2408.14317) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv)
-*   PeerArg: Argumentative Peer Review with LLMs [[Paper]](https://doi.org/10.48550/arXiv.2409.16813) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv)
-*   OpenReviewer: A Specialized Large Language Model for Generating Critical Scientific Paper Reviews [[Paper]](https://doi.org/10.48550/arXiv.2412.11948) ![](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv) [[Code](https://huggingface.co/maxidl/Llama-OpenReviewer-8B)]
+*   PeerArg: Argumentative Peer Review with LLMs [[Paper]](https://doi.org/10.48550/arXiv.2409.16813)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         ](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv)
+*   OpenReviewer: A Specialized Large Language Model for Generating Critical Scientific Paper Reviews [[Paper]](https://doi.org/10.48550/arXiv.2412.11948)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         ](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv) [[Code](https://huggingface.co/maxidl/Llama-OpenReviewer-8B)]
 *   ReviewAgents: Bridging the Gap Between Human and AI-Generated Paper Reviews [[Paper]](https://arxiv.org/abs/2503.08506) ![](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv)
 *   DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process [[Paper]](https://arxiv.org/abs/2503.08569) ![](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv) [[Code](https://github.com/zhu-minjun/Researcher)]
 *   Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles with Large Language Model-Driven Evaluations [[Paper]](https://arxiv.org/abs/2503.13857) ![](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv)
@@ -523,7 +573,17 @@ Exciting frontiers pushing the boundaries of AI in research:
 *   **SWE-bench** [[Paper]](https://openreview.net/forum?id=VTF8yNQM66) ![](https://img.shields.io/badge/ICLR-2024-blue) [[Code](https://github.com/swe-bench/SWE-bench)]
 *   **ScienceAgentBench** [[Paper]](https://arxiv.org/abs/2410.05080) ![](https://img.shields.io/badge/arXiv-2024.10-red?logo=arxiv) [[Code](https://github.com/OSU-NLP-Group/ScienceAgentBench)]
 *   **DSBench** [[Paper]](https://arxiv.org/abs/2409.07703) ![](https://img.shields.io/badge/arXiv-2024.09-red?logo=arxiv) [[Code](https://github.com/LiqiangJing/DSBench)]
-*   **AAAR-1.0** [[Paper]](https://doi.org/10.48550/arXiv.2410.22394) ![](https://img.shields.io/badge/arXiv-2024.10-red?logo=arxiv)
+*   **AAAR-1.0** [[Paper]](https://doi.org/10.48550/arXiv.2410.22394)
+        
+        
+        
+        
+        
+        
+        
+        
+        
+         ](https://img.shields.io/badge/arXiv-2024.10-red?logo=arxiv)
 *   **MLGym** [[Paper]](https://arxiv.org/abs/2502.14499) ![](https://img.shields.io/badge/arXiv-2025.02-red?logo=arxiv) [[Code](https://github.com/facebookresearch/MLGym)]
 *   **PaperBench** [[Paper]](https://cdn.openai.com/papers/22265bac-3191-44e5-b057-7aaacd8e90cd/paperbench.pdf) ![](https://img.shields.io/badge/OpenAI_Report-2025-brown) [[Code](https://github.com/openai/preparedness)]
 
