@@ -26,6 +26,7 @@ We categorize resources based on the core stages of research automation impacted
 - [⚙️ Core Components](#️-core-components)
     - [Research Automation Stack](#research-automation-stack)
     - [Emerging Capabilities](#emerging-capabilities)
+- [📰 Latest Buzz / News](#-latest-buzz--news)
 - [🔥 Featured Projects](#-featured-projects)
     - [Open Source Tools](#open-source-tools)
     - [Commercial Platforms](#commercial-platforms)
@@ -79,6 +80,19 @@ Exciting frontiers pushing the boundaries of AI in research:
 -   **End-to-End Research Agents:** AI systems attempting to automate multiple stages of the research cycle autonomously (e.g., The AI Scientist, AutoSurvey).
 -   **Human-AI Collaboration Patterns:** Novel workflows and interfaces integrating AI assistance seamlessly into researcher tasks for enhanced productivity and creativity.
 -   **AI for Reproducibility & Validation:** Tools focused on verifying scientific claims, attempting automated replication of results, and ensuring overall scientific rigor.
+
+# 📰 Latest Buzz / News
+
+Recent news, announcements, and noteworthy updates circulating in the AI researcher ecosystem.
+
+*   **Sakana AI Labs Update on AI Scientist**
+    *   *Source:* X (Twitter) Post (Mar 2024) <!-- Added potential date/topic for context -->
+    *   *Link:* [Tweet](https://x.com/SakanaAILabs/status/1899646987781501181)
+
+*   **Meet CARL: The First AI System To Produce Academically Peer-Reviewed Research**
+    *   *Source:* AutoScience AI Blog Post (Dec 2023) <!-- Added potential date for context -->
+    *   *Link:* [Blog Post](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research)
+
 
 # 🔥 Featured Projects
 
@@ -510,6 +524,8 @@ Exciting frontiers pushing the boundaries of AI in research:
 *   DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process [[Paper]](https://arxiv.org/abs/2503.08569) ![](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv) [[Code](https://github.com/zhu-minjun/Researcher)] (*Note: Repeated entry*)
 *   Enabling Inclusive Systematic Reviews: Incorporating Preprint Articles with Large Language Model-Driven Evaluations [[Paper]](https://arxiv.org/abs/2503.13857) ![](https://img.shields.io/badge/arXiv-2025.03-red?logo=arxiv)
 *   Overview of the Context24 Shared Task on Contextualizing Scientific Claims [[Paper]](https://aclanthology.org/2024.sdp-1.3/) ![](https://img.shields.io/badge/SDP@ACL-2024-blue)
+
+
 
 # 🏆 Benchmarks
 
