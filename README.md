@@ -532,14 +532,12 @@ Exciting frontiers pushing the boundaries of AI in research:
 
 *   **(Past) NeurIPS 2024 AI4Science Workshop** (December 2024)
 *   **(Past) AAAI Conference on Automated Scientific Discovery** (February 2025)
-*   *(Suggest adding relevant upcoming events)*
 
 <!-- omit in toc -->
 ## Discussion Forums
 
-*   [AI Research Discord](https://discord.gg/airesearch) (Example - replace if needed)
+*   [AI Research Discord](https://discord.gg/airesearch) 
 *   [r/MachineLearning](https://reddit.com/r/MachineLearning)
-*   *(Suggest adding forums specific to AI in science)*
 
 # 👋 Contributing
 
@@ -550,7 +548,7 @@ We welcome contributions! Please follow this workflow:
 3.  **Add or modify resources.** Please try to follow the existing format, including adding conference/journal badges.
 4.  **Submit a Pull Request (PR)** with a clear description of your changes.
 
-*For detailed guidelines, please see `CONTRIBUTING.md` (if available).*
+*For detailed guidelines, please see `CONTRIBUTING.md` .*
 
 # 📜 License
 
