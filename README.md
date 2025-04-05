@@ -550,7 +550,7 @@ We encourage you to get involved! Stay updated on the latest discussions and bre
 
 Join the conversation and exchange ideas in these online communities:
 
-*   **AI Research Discord:** [![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/airesearch)
+*   **AI Research Discord:** [![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/airesearch](https://discord.gg/HeubHd6d))
     *   *An active community for general AI research discussions.*
 
 *   **AI Scientist Research Discussion Group:** [![Platform](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://#) <!-- WeChat badge for visual consistency -->
