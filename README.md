@@ -86,11 +86,11 @@ Exciting frontiers pushing the boundaries of AI in research:
 Recent news, announcements, and noteworthy updates circulating in the AI researcher ecosystem.
 
 *   **Sakana AI Labs Update on AI Scientist**
-    *   *Source:* X (Twitter) Post (Mar 2024) <!-- Added potential date/topic for context -->
+    *   *Source:* X (Twitter) Post (Mar 2025) <!-- Added potential date/topic for context -->
     *   *Link:* [Tweet](https://x.com/SakanaAILabs/status/1899646987781501181)
 
 *   **Meet CARL: The First AI System To Produce Academically Peer-Reviewed Research**
-    *   *Source:* AutoScience AI Blog Post (Dec 2023) <!-- Added potential date for context -->
+    *   *Source:* AutoScience AI Blog Post (Mar 2025) <!-- Added potential date for context -->
     *   *Link:* [Blog Post](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research)
 
 
