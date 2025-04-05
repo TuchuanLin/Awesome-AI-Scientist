@@ -538,8 +538,7 @@ We encourage you to get involved! Stay updated on the latest discussions and bre
 
 *   **(Upcoming)** **AIResearcher Workshop @ ICLR 2025** 🔥
     *   **Conference:** ![](https://img.shields.io/badge/ICLR-2025-blue)
-    *   **Website:** [![Visit Site](https://img.shields.io/badge/Event_Website-blue)](https://wengsyx.github.io/Researcher/)
-    *   *(Check the official event website for the most current details, dates, and participation information.)*
+    *   **Website:** [![Visit Site](https://img.shields.io/badge/Event_Website-blue)](https://ai-researcher.net/social-iclr-2025)
 
 <!-- omit in toc -->
 ## 💬 Discussion Forums
