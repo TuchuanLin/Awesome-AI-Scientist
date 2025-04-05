@@ -68,8 +68,8 @@ The fundamental layers where AI is impacting the research lifecycle:
 | **Knowledge Building** | Knowledge Building            | [Elicit](https://elicit.org), [Consensus](https://consensus.app), SciSpace, Semantic Scholar, KG Tools | AI tools for literature discovery, summarization, knowledge graph construction, understanding figures/tables, and synthesizing existing work. |
 | **Idea Generation**   | Idea Generation               | Hypothesis generators (e.g., based on KGs, LLMs), Agent-based exploration (e.g., [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent)) | AI assisting in formulating novel research questions, hypotheses, identifying gaps, and exploring new research directions.                 |
 | **Experimentation**   | Experiment Execution          | Autonomous Labs (e.g., [CoScientist](https://github.com/gomesgroup/coscientist)), [AlphaFold](https://alphafold.ebi.ac.uk), AutoML, Agent-driven simulation | AI aiding in experimental design, automating experiment execution (physical or simulated), data collection, analysis, and interpretation. |
-| **Paper Writing**     | Paper Writing                 | [Manubot](https://manubot.org), [Overleaf AI](https://www.overleaf.com), [PaperRobot](https://github.com/EagleW/PaperRobot), Citation/Figure generators | AI assistance in drafting sections (abstract, related work), generating figures/tables, citation management, editing, and formatting.     |
-| **Peer Review**       | Peer Review                   | Reviewer assignment tools, Argument mining, Review generation aids (e.g., [ReviewRobot](https://github.com/EagleW/ReviewRobot))            | AI tools supporting reviewer assignment, review quality assessment, argument extraction, and potentially review generation/summarization.      |
+| **Paper Writing**     | Paper Writing                 | [Overleaf AI](https://www.overleaf.com), [PaperRobot](https://github.com/EagleW/PaperRobot), [CycleResearcher](https://github.com/zhu-minjun/Researcher),Citation/Figure generators | AI assistance in drafting sections (abstract, related work), generating figures/tables, citation management, editing, and formatting.     |
+| **Peer Review**       | Peer Review                   | Reviewer assignment tools, Argument mining, Review generation aids (e.g., [ReviewRobot](https://github.com/EagleW/ReviewRobot), [CycleResearcher](https://github.com/zhu-minjun/Researcher))            | AI tools supporting reviewer assignment, review quality assessment, argument extraction, and potentially review generation/summarization.      |
 
 <!-- omit in toc -->
 ## Emerging Capabilities
@@ -87,6 +87,7 @@ Exciting frontiers pushing the boundaries of AI in research:
 
 | Project | Description | Stars | Link |
 |---------|-------------|-------|------|
+| [CycleResearcher](https://github.com/zhu-minjun/Researcher) | Improving Automated Research via Automated Review. | ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social) | [GitHub](https://github.com/zhu-minjun/Researcher) |
 | [Galactica](https://github.com/paperswithcode/galai) | Meta's scientific language model for research tasks. | ![](https://img.shields.io/github/stars/paperswithcode/galai?style=social) | [GitHub](https://github.com/paperswithcode/galai) |
 | [SciKit-LLM](https://github.com/iryna-kondr/scikit-llm) | Integration of LLMs into scientific workflows. | ![](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social) | [GitHub](https://github.com/iryna-kondr/scikit-llm) |
 | [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent) | Iterative research idea generation over scientific literature. | ![](https://img.shields.io/github/stars/JinheonBaek/ResearchAgent?style=social) | [GitHub](https://github.com/JinheonBaek/ResearchAgent) |
@@ -96,6 +97,7 @@ Exciting frontiers pushing the boundaries of AI in research:
 <!-- omit in toc -->
 ## Commercial Platforms
 
+*   [AI Researcher](https://ai-researcher.net/)
 *   [Elicit](https://elicit.org/)
 *   [Consensus](https://consensus.app/)
 *   [SciSpace](https://scispace.com/)
@@ -527,17 +529,36 @@ Exciting frontiers pushing the boundaries of AI in research:
 
 # 🌐 Community
 
-<!-- omit in toc -->
-## Upcoming Events
+Connect with fellow researchers, share insights, and stay updated!
 
-*   **(Past) NeurIPS 2024 AI4Science Workshop** (December 2024)
-*   **(Past) AAAI Conference on Automated Scientific Discovery** (February 2025)
 
 <!-- omit in toc -->
-## Discussion Forums
+## 📅 Upcoming Events
 
-*   [AI Research Discord](https://discord.gg/airesearch) 
-*   [r/MachineLearning](https://reddit.com/r/MachineLearning)
+We encourage you to get involved! Stay updated on the latest discussions and breakthroughs by joining these community events:
+
+*   **(Upcoming)** **AIResearcher Workshop @ ICLR 2025** 🔥
+    *   **Conference:** ![](https://img.shields.io/badge/ICLR-2025-blue)
+    *   **Website:** [![Visit Site](https://img.shields.io/badge/Event_Website-blue)](https://wengsyx.github.io/Researcher/)
+    *   *(Check the official event website for the most current details, dates, and participation information.)*
+
+*   *(Add other relevant upcoming events here, following a similar format)*
+
+
+<!-- omit in toc -->
+## 💬 Discussion Forums
+
+Join the conversation and exchange ideas in these online communities:
+
+*   **AI Research Discord:** [![Join Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/airesearch)
+    *   *An active community for general AI research discussions.*
+
+*   **AI Scientist Research Discussion Group:** [![Platform](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://#) <!-- WeChat badge for visual consistency -->
+    </br>
+    <img src="https://raw.githubusercontent.com/TuchuanLin/Awesome-AI-Scientist/main/img/WeChat%20Group%20QR%20Code.jpg" alt="AI Scientist WeChat Group QR Code" width="150">
+    </br>*(Scan QR Code to join. Note: Valid until Apr 12th, per image; may require update. Contact maintainers if expired.)*
+
+
 
 # 👋 Contributing
 
@@ -548,7 +569,7 @@ We welcome contributions! Please follow this workflow:
 3.  **Add or modify resources.** Please try to follow the existing format, including adding conference/journal badges.
 4.  **Submit a Pull Request (PR)** with a clear description of your changes.
 
-*For detailed guidelines, please see `CONTRIBUTING.md` .*
+*For detailed guidelines, please see `CONTRIBUTING.md`.*
 
 # 📜 License
 
@@ -558,4 +579,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *   Maintained with ❤️ by [] and the community contributors.
 *   Last major content update: **Apr 2025** (Based on initial memory storage date)
-
