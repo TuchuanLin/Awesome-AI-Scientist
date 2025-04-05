@@ -9,7 +9,7 @@
 **Dive into the rapidly evolving world of AI-powered research automation!** 💡 This curated repository is your compass to navigate the cutting-edge tools, frameworks, and methodologies that are revolutionizing scientific discovery. We track the latest advancements, focusing on resources that empower researchers and accelerate breakthroughs.
 
 <!-- omit in toc -->
-## 👀 Introduction
+# 👀 Introduction
 
 AI is transforming the scientific landscape, offering powerful tools to assist researchers throughout the entire research lifecycle. This repository provides a structured overview of the AI researcher ecosystem, focusing on key components and advancements.
 
@@ -20,7 +20,7 @@ AI is transforming the scientific landscape, offering powerful tools to assist r
 We categorize resources based on the core stages of research automation impacted by AI, drawing heavily from the surveyed literature.
 
 <!-- omit in toc -->
-## 📌 Table of Contents
+# 📌 Table of Contents
 
 - [⚙️ Core Components](#️-core-components)
     - [Research Automation Stack](#research-automation-stack)
