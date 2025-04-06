@@ -14,11 +14,11 @@
 AI is transforming the scientific landscape, offering powerful tools to assist researchers throughout the entire research lifecycle. This repository provides a structured overview of the AI researcher ecosystem, focusing on key components and advancements.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=AI+Research+Automation+Landscape" alt="AI Research Automation Landscape" width="800">
+  <img src="https://github.com/zhu-minjun/Researcher/blob/main/img/ai-research.png" alt="AI Research Automation Landscape" width="800">
   <!-- Consider replacing placeholder image -->
 </p>
 
-We categorize resources based on the core stages of research automation impacted by AI, drawing heavily from the surveyed literature.
+We categorize resources 📚 based on the core stages of research automation impacted by AI, drawing heavily from the surveyed literature. For the papers compiled, we provide links to the paper itself 📄, associated code 💻, and available reviews 📝. Crucially, for publications lacking open reviews, we've utilized our [**DeepReviewer**](https://ai-researcher.net/DeepReviewer) to generate AI-powered review analyses 🤖, also including links to these results. We welcome everyone to use our **ai-researcher** tool suite, including **DeepReviewer**, **CycleResearcher**, and others! ✨
 
 <!-- omit in toc -->
 # 📌 Table of Contents
