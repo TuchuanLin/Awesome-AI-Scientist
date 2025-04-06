@@ -48,7 +48,7 @@ We categorize resources based on the core stages of research automation impacted
     - [Figure Generation](#figure-generation)
     - [Table Generation](#table-generation)
     - [Slides & Poster Generation](#slides--poster-generation)
-- [✅ Peer Review](#-peer-review)
+- [✅ Paper Review](#-paper-review)
 - [🏆 Benchmarks](#-benchmarks)
 - [🌐 Community](#-community)
     - [📅 Upcoming Events](#upcoming-events)
@@ -478,7 +478,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 *   Enhancing Presentation Slide Generation by LLMs with a Multi-Staged End-to-End Approach [[Paper]](https://aclanthology.org/2024.inlg-main.18/) ![](https://img.shields.io/badge/INLG-2024-blue) [No Code] [No Review]
 *   Presentations are not always linear! GNN meets LLM for Text Document-to-Presentation Transformation with Attribution [[Paper]](https://aclanthology.org/2024.findings-emnlp.936/) ![](https://img.shields.io/badge/EMNLP_Findings-2024-blue) [No Code] [No Review]
 
-# ✅ Peer Review
+# ✅ Paper Review
 
 *   Online software spots genetic errors in cancer papers [[Paper]](https://www.nature.com/articles/nature.2017.23003) ![](https://img.shields.io/badge/Nature_News-2017-green) [No Review]
 *   Argument Mining for Understanding Peer Reviews [[Paper]](https://aclanthology.org/N19-1219/) ![](https://img.shields.io/badge/NAACL-2019-blue) [No Review]
