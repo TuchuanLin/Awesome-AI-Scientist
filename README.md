@@ -55,7 +55,6 @@ We categorize resources 📚 based on the core stages of research automation imp
     - [💬 Discussion Forums](#discussion-forums)
 - [👋 Contributing](#-contributing)
 - [📜 License](#-license)
-- [🎖️ Credits and Acknowledgements](#️-credits-and-acknowledgements)
 
 # ⚙️ Core Components
 
