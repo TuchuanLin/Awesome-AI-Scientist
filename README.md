@@ -608,8 +608,3 @@ We welcome contributions! Please follow this workflow:
 # 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-# 🎖️ Credits and Acknowledgements
-
-*   Maintained with ❤️ by [] and the community contributors. <!-- Replace placeholder -->
-*   Last major content update: [04 2024] <!-- Update regularly -->
