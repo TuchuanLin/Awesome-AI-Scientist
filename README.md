@@ -557,7 +557,6 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 
 # 🏆 Benchmarks
 
-*   **OpenAI Science Benchmark** [[Leaderboard]](https://openai.com/research/science-benchmarks)
 *   **AI2 Scientific Reasoning Challenge (ARC)** [[Dataset]](https://allenai.org/data/arc)
 *   **MLAgentBench** [[Paper]](https://arxiv.org/abs/2310.03302) ![](https://img.shields.io/badge/arXiv-2023.10-red?logo=arxiv) [[Code](https://github.com/snap-stanford/MLAgentBench/)]
 *   **SWE-bench** [[Paper]](https://openreview.net/forum?id=VTF8yNQM66) ![](https://img.shields.io/badge/ICLR-2024-blue) [[Code](https://github.com/swe-bench/SWE-bench)]
