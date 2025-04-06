@@ -102,6 +102,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 | Project | Description | Stars | Link |
 |---------|-------------|-------|------|
 | [CycleResearcher](https://github.com/zhu-minjun/Researcher) | Improving Automated Research via Automated Review. | ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social) | [GitHub](https://github.com/zhu-minjun/Researcher) |
+| [AutoSurvey](https://github.com/AutoSurveys/AutoSurvey) | Large language models automatically writing surveys. | ![](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey?style=social) | [GitHub](https://github.com/AutoSurveys/AutoSurvey) |
 | [Galactica](https://github.com/paperswithcode/galai) | Meta's scientific language model for research tasks. | ![](https://img.shields.io/github/stars/paperswithcode/galai?style=social) | [GitHub](https://github.com/paperswithcode/galai) |
 | [SciKit-LLM](https://github.com/iryna-kondr/scikit-llm) | Integration of LLMs into scientific workflows. | ![](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social) | [GitHub](https://github.com/iryna-kondr/scikit-llm) |
 | [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent) | Iterative research idea generation over scientific literature. | ![](https://img.shields.io/github/stars/JinheonBaek/ResearchAgent?style=social) | [GitHub](https://github.com/JinheonBaek/ResearchAgent) |
