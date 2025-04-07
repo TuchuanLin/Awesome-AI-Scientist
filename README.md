@@ -69,7 +69,7 @@ The fundamental layers where AI is impacting the research lifecycle:
 | **Idea Generation**   | Idea Generation               | Hypothesis generators (e.g., based on KGs, LLMs), Agent-based exploration (e.g., [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent)) | AI assisting in formulating novel research questions, hypotheses, identifying gaps, and exploring new research directions.                 |
 | **Experimentation**   | Experiment Execution          | Autonomous Labs (e.g., [CoScientist](https://github.com/gomesgroup/coscientist)), [AlphaFold](https://alphafold.ebi.ac.uk), AutoML, Agent-driven simulation | AI aiding in experimental design, automating experiment execution (physical or simulated), data collection, analysis, and interpretation. |
 | **Paper Writing**     | Paper Writing                 | [Overleaf AI](https://www.overleaf.com), [PaperRobot](https://github.com/EagleW/PaperRobot), [CycleResearcher](https://github.com/zhu-minjun/Researcher),Citation/Figure generators | AI assistance in drafting sections (abstract, related work), generating figures/tables, citation management, editing, and formatting.     |
-| **Peer Review**       | Peer Review                   | Reviewer assignment tools, Argument mining, Review generation aids (e.g., [ReviewRobot](https://github.com/EagleW/ReviewRobot), [CycleResearcher](https://github.com/zhu-minjun/Researcher))            | AI tools supporting reviewer assignment, review quality assessment, argument extraction, and potentially review generation/summarization.      |
+| **Paper Review**       | Paper Review                   | Reviewer assignment tools, Argument mining, Review generation aids (e.g., [ReviewRobot](https://github.com/EagleW/ReviewRobot), [CycleResearcher](https://github.com/zhu-minjun/Researcher))            | AI tools supporting reviewer assignment, review quality assessment, argument extraction, and potentially review generation/summarization.      |
 
 <!-- omit in toc -->
 ## Emerging Capabilities
@@ -107,6 +107,7 @@ Recent news, announcements, and noteworthy updates circulating in the AI researc
 | [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent) | Iterative research idea generation over scientific literature. | ![](https://img.shields.io/github/stars/JinheonBaek/ResearchAgent?style=social) | [GitHub](https://github.com/JinheonBaek/ResearchAgent) |
 | [CoScientist](https://github.com/gomesgroup/coscientist) | Autonomous chemical research with LLMs. | ![](https://img.shields.io/github/stars/gomesgroup/coscientist?style=social) | [GitHub](https://github.com/gomesgroup/coscientist) |
 | [PaperRobot](https://github.com/EagleW/PaperRobot) | Incremental Draft Generation of Scientific Ideas. | ![](https://img.shields.io/github/stars/EagleW/PaperRobot?style=social) | [GitHub](https://github.com/EagleW/PaperRobot) |
+
 
 <!-- omit in toc -->
 ## Commercial Platforms
