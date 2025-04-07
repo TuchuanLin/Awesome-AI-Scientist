@@ -18,7 +18,7 @@ AI is transforming the scientific landscape, offering powerful tools to assist r
   <!-- Consider replacing placeholder image -->
 </p>
 
-We categorize resources 📚 based on the core stages of research automation impacted by AI, drawing heavily from the surveyed literature. For the papers compiled, we provide links to the paper itself 📄, associated code 💻, and available reviews 📝. Crucially, for some publications lacking open reviews, we've utilized our [**DeepReviewer**](https://ai-researcher.net/DeepReviewer) to generate AI-powered review analyses 🤖, also including links to these results. We welcome everyone to use our **ai-researcher** tool suite, including **DeepReviewer**, **CycleResearcher**, **AutoSurvey**, and others! ✨
+We categorize resources 📚 based on the core stages of research automation impacted by AI, drawing heavily from the surveyed literature. For the papers compiled, we provide links to the paper itself 📄, associated code 💻, and available reviews 📝. Crucially, for some publications lacking open reviews, we've utilized our [**DeepReviewer**](https://ai-researcher.net/DeepReviewer) to generate AI-powered review analyses 🤖, also including links to these results. We welcome everyone to use our [**AI-Researcher.net**](https://ai-researcher.net), including **DeepReviewer**, **CycleResearcher**, **AutoSurvey**, and others! ✨
 
 <!-- omit in toc -->
 # 📌 Table of Contents
