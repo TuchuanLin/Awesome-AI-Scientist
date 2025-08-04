@@ -80,17 +80,27 @@ Exciting frontiers pushing the boundaries of AI in research:
 -   **Human-AI Collaboration Patterns:** Novel workflows and interfaces integrating AI assistance seamlessly into researcher tasks for enhanced productivity and creativity.
 -   **AI for Reproducibility & Validation:** Tools focused on verifying scientific claims, attempting automated replication of results, and ensuring overall scientific rigor.
 
+
+
 # 📰 Latest Buzz / News
 
 Recent news, announcements, and noteworthy updates circulating in the AI researcher ecosystem.
 
-*   **Sakana AI Labs Update on AI Scientist**
-    *   *Source:* X (Twitter) Post (Mar 2025) <!-- Added potential date/topic for context -->
-    *   *Link:* [Tweet](https://x.com/SakanaAILabs/status/1899646987781501181)
+* **Survey | How Far Are AI Scientists from Changing the World?**
+    * *Source:* arXiv Publication (Jul 2025)
+    * *Link:* [Paper](https://arxiv.org/pdf/2507.23276)
 
-*   **Meet CARL: The First AI System To Produce Academically Peer-Reviewed Research**
-    *   *Source:* AutoScience AI Blog Post (Mar 2025) <!-- Added potential date for context -->
-    *   *Link:* [Blog Post](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research)
+* **Position Paper | AI Scientists Fail Without Strong Implementation Capability**
+    * *Source:* arXiv Publication (Jun 2025)
+    * *Link:* [Paper](https://arxiv.org/pdf/2506.01372)
+
+* **Sakana AI Labs Update on AI Scientist**
+    * *Source:* X (Twitter) Post (Mar 2025)
+    * *Link:* [Tweet](https://x.com/SakanaAILabs/status/1899646987781501181)
+
+* **Meet CARL: The First AI System To Produce Academically Peer-Reviewed Research**
+    * *Source:* AutoScience AI Blog Post (Mar 2025)
+    * *Link:* [Blog Post](https://www.autoscience.ai/blog/meet-carl-the-first-ai-system-to-produce-academically-peer-reviewed-research)
 
 
 # 🔥 Featured Projects
